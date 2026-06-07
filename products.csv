@@ -1,0 +1,11 @@
+product_id,name,category,price,rating,image,description
+P101,Wireless Mouse,Electronics,799,4.5,mouse.jpg,Wireless optical mouse for laptops and desktops
+P102,Gaming Keyboard,Electronics,1999,4.7,keyboard.jpg,RGB mechanical gaming keyboard
+P103,Laptop Stand,Electronics,999,4.4,laptopstand.jpg,Adjustable aluminum laptop stand
+P104,Sports Shoes,Fashion,2999,4.6,shoes.jpg,Comfortable running shoes
+P105,T-Shirt,Fashion,599,4.2,tshirt.jpg,Cotton casual t shirt
+P106,Jeans,Fashion,1299,4.3,jeans.jpg,Slim fit denim jeans
+P107,Coffee Mug,Home,299,4.5,mug.jpg,Ceramic coffee mug
+P108,Water Bottle,Home,499,4.6,bottle.jpg,Stainless steel bottle
+P109,Study Lamp,Home,899,4.4,lamp.jpg,LED study lamp with brightness control
+P110,Backpack,Accessories,1499,4.7,bag.jpg,Waterproof laptop backpack
